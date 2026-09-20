@@ -1,6 +1,2 @@
 [variables]
 COMPOSER_MEMORY_LIMIT = "-1"
-
-[phases.setup]
-# Ensure Nixpacks uses PHP 8.3 which is required by your Laravel 13 setup
-nixPkgs = ["php83", "php83Packages.composer"]
