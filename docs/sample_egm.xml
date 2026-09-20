@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Awmds>
+<General_segment>
+<General_segment_id>
+<Customs_office_code>301</Customs_office_code>
+<Voyage_number>MHRA0106N</Voyage_number>
+<Date_of_departure>2026-05-17</Date_of_departure>
+<Date_of_arrival>2026-05-20</Date_of_arrival>
+</General_segment_id>
+<Totals_segment>
+<Total_number_of_bols>9</Total_number_of_bols>
+<Total_number_of_packages>12031</Total_number_of_packages>
+<Total_number_of_containers>17</Total_number_of_containers>
+<Total_gross_mass>430890.90</Total_gross_mass>
+</Totals_segment>
+<Transport_information>
+<Carrier>
+<Carrier_code>301043077</Carrier_code>
+<Carrier_name>BANGLADESH CONTAINER LINES LIMITED</Carrier_name>
+<Carrier_address>36, JOY BANGLA TOWER 12TH FLOOR, AGRABAD C/A, CHATTOGRAM, BANGLADESH</Carrier_address>
+</Carrier>
+<Mode_of_transport_code>1</Mode_of_transport_code>
+<Identity_of_transporter>HR HERA</Identity_of_transporter>
+<Nationality_of_transporter_code>BD</Nationality_of_transporter_code>
+</Transport_information>
+<Load_unload_place>
+<Place_of_departure_code>SGSIN</Place_of_departure_code>
+<Place_of_destination_code>BDCGP</Place_of_destination_code>
+</Load_unload_place>
+</General_segment>
+<Bol_segment>
+<Bol_id>
+<Bol_reference>JHSNBO266379</Bol_reference>
+<Line_number>1</Line_number>
+<Bol_nature>23</Bol_nature>
+<Bol_type_code>HSB</Bol_type_code>
+<DG_status></DG_status>
+</Bol_id>
+<Consolidated_Cargo>0</Consolidated_Cargo>
+<Load_unload_place>
+<Port_of_origin_code>CNNGB</Port_of_origin_code>
+<Place_of_unloading_code>BDCGP</Place_of_unloading_code>
+</Load_unload_place>
+<Traders_segment>
+<Carrier>
+<Carrier_code>301043077</Carrier_code>
+<Carrier_name>BANGLADESH CONTAINER LINES LIMITED</Carrier_name>
+<Carrier_address>36, JOY BANGLA TOWER 12TH FLOOR, AGRABAD C/A, CHATTOGRAM, BANGLADESH</Carrier_address>
+</Carrier>
+<Shipping_Agent>
+<Shipping_Agent_code>SLA</Shipping_Agent_code>
+<Shipping_Agent_name>SPRING SEA SHIPPING LINES AGENTS AG</Shipping_Agent_name>
+</Shipping_Agent>
+<Exporter>
+<Exporter_name>WEIFANG ANSHENG INT. TRADING CO.LTD</Exporter_name>
+<Exporter_address>ROOM 508, UNIT 4, BUILDING 18, YONGSHENG GARDEN,,SHANGCHANG ROAD, ANQIU CITY, SHANDONG PROVINCE, CHINA</Exporter_address>
+</Exporter>
+<Notify>
+<Notify_code>005752026-0503</Notify_code>
+<Notify_name>M/S ROKEYA CORPORATION</Notify_name>
+<Notify_address>1295 ASHRAF ALI ROAD,PATHARGHATA, KOTWALI PS, CHITTAGONG-4000, BANGLADESH.</Notify_address>
+</Notify>
+<Consignee>
+<Consignee_code>000000124-0002</Consignee_code>
+<Consignee_name>ISLAMI
+BANK BANGLADESH PLC</Consignee_name>
+<Consignee_address>JUBILEE ROAD BRANCH,,IPL IKLAS COMPLEX HOLDING NO.525 JUBILEE ROAD, KOTWALI, CHITTAGONG, BANGLADESH</Consignee_address>
+</Consignee>
+</Traders_segment>
+<ctn_segment>
+<Ctn_reference>HDMU6325601</Ctn_reference>
+<Number_of_packages>70</Number_of_packages>
+<Type_of_container>45G1</Type_of_container>
+<Status>FCL</Status>
+<Seal_number>JHS019240</Seal_number>
+<IMCO></IMCO>
+<UN></UN>
+<Ctn_location></Ctn_location>
+<Commodity_code>35</Commodity_code>
+<Gross_weight>25516.00</Gross_weight>
+</ctn_segment>
+<Goods_segment>
+<Number_of_packages>70</Number_of_packages>
+<Package_type_code>RO</Package_type_code>
+<Gross_mass>25516.00</Gross_mass>
+<Shipping_marks>N/M</Shipping_marks>
+<Goods_description>1x40HC 70 ROLLS, POLYESTER TIRE CORD FABRIC ON ROLLS SECONDARY QUALITY FOR MAKING FISHING NET.,HS CODE:5902.20.00</Goods_description>
+<Volume_in_cubic_meters>0</Volume_in_cubic_meters>
+<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+<Remarks>COC</Remarks>
+</Goods_segment>
+<Value_segment>
+<Freight_segment>
+<Freight_value>0</Freight_value>
+<Freight_currency>ZZZ</Freight_currency>
+</Freight_segment>
+</Value_segment>
+</Bol_segment>
+<Bol_segment>
+<Bol_id>
+<Bol_reference>JHSNBO261358</Bol_reference>
+<Line_number>2</Line_number>
+<Bol_nature>23</Bol_nature>
+<Bol_type_code>HSB</Bol_type_code>
+<DG_status></DG_status>
+</Bol_id>
+<Consolidated_Cargo>0</Consolidated_Cargo>
+<Load_unload_place>
+<Port_of_origin_code>CNNGB</Port_of_origin_code>
+<Place_of_unloading_code>BDCGP</Place_of_unloading_code>
+</Load_unload_place>
+<Traders_segment>
+<Carrier>
+<Carrier_code>301043077</Carrier_code>
+<Carrier_name>BANGLADESH CONTAINER LINES LIMITED</Carrier_name>
+<Carrier_address>36, JOY BANGLA TOWER 12TH FLOOR, AGRABAD C/A, CHATTOGRAM, BANGLADESH</Carrier_address>
+</Carrier>
+<Shipping_Agent>
+<Shipping_Agent_code>SLA</Shipping_Agent_code>
+<Shipping_Agent_name>SPRING SEA SHIPPING LINES AGENTS AG</Shipping_Agent_name>
+</Shipping_Agent>
+<Exporter>
+<Exporter_name>YONGKANG GREENPOWER TRADING CO.LTD</Exporter_name>
+<Exporter_address>ADD:ZONE B2,C,D,E,7TH FLOOR,BUILDING 3,NO.888 JIUZHOU WEST ROAD,ECONOMIC AND DEVELOPMENT ZONE,YONGKANG,JINHUA,ZHEJIANG,CHINA</Exporter_address>
+</Exporter>
+<Notify>
+<Notify_code>002006128-0301</Notify_code>
+<Notify_name>S.M.MACHINARIES</Notify_name>
+<Notify_address>24/25,NBC TOWER,ROTKHOLA MOR, NAWABPUR ROAD DHAKA-1100,BANGLADESH.</Notify_address>
+</Notify>
+<Consignee>
+<Consignee_code>000000027-0002</Consignee_code>
+<Consignee_name> JANATA BANK PLC</Consignee_name>
+<Consignee_address>NAWABPUR ROAD CORPORATE BR DHAKA,BANGLADESH</Consignee_address>
+</Consignee>
+</Traders_segment>
+<ctn_segment>
+<Ctn_reference>ZIBU8005241</Ctn_reference>
+<Number_of_packages>920</Number_of_packages>
+<Type_of_container>45G1</Type_of_container>
+<Status>FCL</Status>
+<Seal_number>JHS017331</Seal_number>
+<IMCO></IMCO>
+<UN></UN>
+<Ctn_location></Ctn_location>
+<Commodity_code>35</Commodity_code>
+<Gross_weight>17393.60</Gross_weight>
+</ctn_segment>
+<Goods_segment>
+<Number_of_packages>920</Number_of_packages>
+<Package_type_code>CT</Package_type_code>
+<Gross_mass>17393.60</Gross_mass>
+<Shipping_marks>N/M</Shipping_marks>
+<Goods_description>1x40HC 920 CARTONS, HARDWERE POWER TOOLS AND THEIR PARTS ITEMS: 01.100 MM ANGLE GRINDER(H.S.CODE 8467.29.00) 02.DEMOLITION HAMMER DRILL(H.S.CODE 8467.21.00) 03.ELECTRIC DRILL MACHINE(H.S.CODE 8476.21.00) 04.BENCH DRILLTTYPE(H.S.CODE 8467.21.00) 05.ELECTRIC WELDING MACHINE WITH ACCESSORIES (H.S.CODE 8515.39.00) 06.ELECTRIC PLANNER MACHINE(H.S.CODE 8465.92.00) 07.ELECTRIC SAW MACHINE(H.S.CODE 8467.29.00) 08.TILES CUTTER MACHINE(H.S.CODE 8461.50.00),09.HIGH PRESSURE WASHER(H.S.CODE 8424.20.00) 10.ELECTRIC CUTO</Goods_description>
+<Volume_in_cubic_meters>0</Volume_in_cubic_meters>
+<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+<Remarks>COC</Remarks>
+</Goods_segment>
+<Value_segment>
+<Freight_segment>
+<Freight_value>0</Freight_value>
+<Freight_currency>ZZZ</Freight_currency>
+</Freight_segment>
+</Value_segment>
+</Bol_segment>
+<Bol_segment>
+<Bol_id>
+<Bol_reference>JHSNBO261357</Bol_reference>
+<Line_number>3</Line_number>
+<Bol_nature>23</Bol_nature>
+<Bol_type_code>HSB</Bol_type_code>
+<DG_status></DG_status>
+</Bol_id>
+<Consolidated_Cargo>0</Consolidated_Cargo>
+<Load_unload_place>
+<Port_of_origin_code>CNNGB</Port_of_origin_code>
+<Place_of_unloading_code>BDCGP</Place_of_unloading_code>
+</Load_unload_place>
+<Traders_segment>
+<Carrier>
+<Carrier_code>301043077</Carrier_code>
+<Carrier_name>BANGLADESH CONTAINER LINES LIMITED</Carrier_name>
+<Carrier_address>36, JOY BANGLA TOWER 12TH FLOOR, AGRABAD C/A, CHATTOGRAM, BANGLADESH</Carrier_address>
+</Carrier>
+<Shipping_Agent>
+<Shipping_Agent_code>SLA</Shipping_Agent_code>
+<Shipping_Agent_name>SPRING SEA SHIPPING LINES AGENTS AG</Shipping_Agent_name>
+</Shipping_Agent>
+<Exporter>
+<Exporter_name>HONGYE CHEMICAL GROUP LTD</Exporter_name>
+<Exporter_address>UNIT C 9/F WINNING HOUSE 72-76 WING,LOK ST SHEUNG WAN HONG KONG</Exporter_address>
+</Exporter>
+<Notify>
+<Notify_code>007269722-0104</Notify_code>
+<Notify_name>AKIJ PIPES LIMITED</Notify_name>
+<Notify_address>RAIMONI,KHAGATIPARA, TRISHAL,,MYMENSINGH-2220 BANGLADESH. H/O:AKIJ HOUSE 198 BIR UTTAM MIR SHAWKAT SARAK TEJGAON,DHAKA-1208,,BANGLADESH</Notify_address>
+</Notify>
+<Consignee>
+<Consignee_code>000000196-0002</Consignee_code>
+<Consignee_name> PUBALI BANK PLC</Consignee_name>
+<Consignee_address>GULSHAN CORPORATE BRANCH GULSHAN-2,DHAKA,BANGLADESH</Consignee_address>
+</Consignee>
+</Traders_segment>
+<ctn_segment>
+<Ctn_reference>NLLU4114620</Ctn_reference>
+<Number_of_packages>1120</Number_of_packages>
+<Type_of_container>45G1</Type_of_container>
+<Status>FCL</Status>
+<Seal_number>JHS017278</Seal_number>
+<IMCO></IMCO>
+<UN></UN>
+<Ctn_location>301EBIL</Ctn_location>
+<Commodity_code>35</Commodity_code>
+<Gross_weight>28224.00</Gross_weight>
+</ctn_segment>
+<ctn_segment>
+<Ctn_reference>TGHU9280872</Ctn_reference>
+<Number_of_packages>1120</Number_of_packages>
+<Type_of_container>45G1</Type_of_container>
+<Status>FCL</Status>
+<Seal_number>JHS017471</Seal_number>
+<IMCO></IMCO>
+<UN></UN>
+<Ctn_location>301EBIL</Ctn_location>
+<Commodity_code>35</Commodity_code>
+<Gross_weight>28224.00</Gross_weight>
+</ctn_segment>
+<ctn_segment>
+<Ctn_reference>TIIU6449117</Ctn_reference>
+<Number_of_packages>1120</Number_of_packages>
+<Type_of_container>45G1</Type_of_container>
+<Status>FCL</Status>
+<Seal_number>JHS017320</Seal_number>
+<IMCO></IMCO>
+<UN></UN>
+<Ctn_location>301EBIL</Ctn_location>
+<Commodity_code>35</Commodity_code>
+<Gross_weight>28224.00</Gross_weight>
+</ctn_segment>
+<ctn_segment>
+<Ctn_reference>ZGXU6118540</Ctn_reference>
+<Number_of_packages>1120</Number_of_packages>
+<Type_of_container>45G1</Type_of_container>
+<Status>FCL</Status>
+<Seal_number>JHS017427</Seal_number>
+<IMCO></IMCO>
+<UN></UN>
+<Ctn_location>301EBIL</Ctn_location>
+<Commodity_code>35</Commodity_code>
+<Gross_weight>28224.00</Gross_weight>
+</ctn_segment>
+<ctn_segment>
+<Ctn_reference>ZIBU5002378</Ctn_reference>
+<Number_of_packages>1120</Number_of_packages>
+<Type_of_container>45G1</Type_of_container>
+<Status>FCL</Status>
+<Seal_number>JHS017336</Seal_number>
+<IMCO></IMCO>
+<UN></UN>
+<Ctn_location>301EBIL</Ctn_location>
+<Commodity_code>35</Commodity_code>
+<Gross_weight>28224.00</Gross_weight>
+</ctn_segment>
+<ctn_segment>
+<Ctn_reference>ZIBU8009226</Ctn_reference>
+<Number_of_packages>1120</Number_of_packages>
+<Type_of_container>45G1</Type_of_container>
+<Status>FCL</Status>
+<Seal_number>JHS017257</Seal_number>
+<IMCO></IMCO>
+<UN></UN>
+<Ctn_location>301EBIL</Ctn_location>
+<Commodity_code>35</Commodity_code>
+<Gross_weight>28224.00</Gross_weight>
+</ctn_segment>
+<ctn_segment>
+<Ctn_reference>ZIBU8015363</Ctn_reference>
+<Number_of_packages>1120</Number_of_packages>
+<Type_of_container>45G1</Type_of_container>
+<Status>FCL</Status>
+<Seal_number>JHS017373</Seal_number>
+<IMCO></IMCO>
+<UN></UN>
+<Ctn_location>301EBIL</Ctn_location>
+<Commodity_code>35</Commodity_code>
+<Gross_weight>28224.00</Gross_weight>
+</ctn_segment>
+<Goods_segment>
+<Number_of_packages>7840</Number_of_packages>
+<Package_type_code>BG</Package_type_code>
+<Gross_mass>197568.00</Gross_mass>
+<Shipping_marks>N/M</Shipping_marks>
+<Goods_description>07x40HC 7840 BAGS, PVC RESIN GRADE JH-1000(PIPE GRADE66-68),ETHYLENE BASED H.S.CODE 3904.10.00</Goods_description>
+<Volume_in_cubic_meters>0</Volume_in_cubic_meters>
+<Num_of_ctn_for_this_bol>7</Num_of_ctn_for_this_bol>
+<Remarks>COC</Remarks>
+</Goods_segment>
+<Value_segment>
+<Freight_segment>
+<Freight_value>0</Freight_value>
+<Freight_currency>ZZZ</Freight_currency>
+</Freight_segment>
+</Value_segment>
+</Bol_segment>
+<Bol_segment>
+<Bol_id>
+<Bol_reference>JHSNBO261356</Bol_reference>
+<Line_number>4</Line_number>
+<Bol_nature>23</Bol_nature>
+<Bol_type_code>HSB</Bol_type_code>
+<DG_status></DG_status>
+</Bol_id>
+<Consolidated_Cargo>0</Consolidated_Cargo>
+<Load_unload_place>
+<Port_of_origin_code>CNNGB</Port_of_origin_code>
+<Place_of_unloading_code>BDCGP</Place_of_unloading_code>
+</Load_unload_place>
+<Traders_segment>
+<Carrier>
+<Carrier_code>301043077</Carrier_code>
+<Carrier_name>BANGLADESH CONTAINER LINES LIMITED</Carrier_name>
+<Carrier_address>36, JOY BANGLA TOWER 12TH FLOOR, AGRABAD C/A, CHATTOGRAM, BANGLADESH</Carrier_address>
+</Carrier>
+<Shipping_Agent>
+<Shipping_Agent_code>SLA</Shipping_Agent_code>
+<Shipping_Agent_name>SPRING SEA SHIPPING LINES AGENTS AG</Shipping_Agent_name>
+</Shipping_Agent>
+<Exporter>
+<Exporter_name>SHANGHAI POLYTEX CO., LIMITED</Exporter_name>
+<Exporter_address>NO.327 TIAN YAO QIAO ROAD,,SHANGHAI/200030 CHINA</Exporter_address>
+</Exporter>
+<Notify>
+<Notify_code>000277595-0504</Notify_code>
+<Notify_name>STAR PADDING IND.LTD.</Notify_name>
+<Notify_address>299,BAIZID BOSTAMI ROAD,NASIRABAD,INDUSTRIAL AREA,CHATTOGRAM,,BANGLADESH</Notify_address>
+</Notify>
+<Consignee>
+<Consignee_code>000000124-0002</Consignee_code>
+<Consignee_name>ISLAMI BANK BANGLADESH PLC</Consignee_name>
+<Consignee_address>AGRABAD CORPORATE BRANCH,3 CDA,SK.MUJIB ROAD, AGRABADD C/A,CHATTOGRAM, BANGLADESH</Consignee_address>
+</Consignee>
+</Traders_segment>
+<ctn_segment>
+<Ctn_reference>WSCU7115570</Ctn_reference>
+<Number_of_packages>79</Number_of_packages>
+<Type_of_container>45G1</Type_of_container>
+<Status>FCL</Status>
+<Seal_number>JHS017307</Seal_number>
+<IMCO></IMCO>
+<UN></UN>
+<Ctn_location>301EBIL</Ctn_location>
+<Commodity_code>35</Commodity_code>
+<Gross_weight>26199.00</Gross_weight>
+</ctn_segment>
+<ctn_segment>
+<Ctn_reference>TIIU5466357</Ctn_reference>
+<Number_of_packages>81</Number_of_packages>
+<Type_of_container>45G1</Type_of_container>
+<Status>FCL</Status>
+<Seal_number>JHS017458</Seal_number>
+<IMCO></IMCO>
+<UN></UN>
+<Ctn_location>301EBIL</Ctn_location>
+<Commodity_code>35</Commodity_code>
+<Gross_weight>26397.00</Gross_weight>
+</ctn_segment>
+<Goods_segment>
+<Number_of_packages>160</Number_of_packages>
+<Package_type_code>BL</Package_type_code>
+<Gross_mass>52596.00</Gross_mass>
+<Shipping_marks>N/M</Shipping_marks>
+<Goods_description>2x40HC 160 Bales, POLYESTER STAPLE FIBRE (R GRADE) 3D X 32MM SOLID HS CODE 5503.20.00</Goods_description>
+<Volume_in_cubic_meters>0</Volume_in_cubic_meters>
+<Num_of_ctn_for_this_bol>2</Num_of_ctn_for_this_bol>
+<Remarks>COC</Remarks>
+</Goods_segment>
+<Value_segment>
+<Freight_segment>
+<Freight_value>0</Freight_value>
+<Freight_currency>ZZZ</Freight_currency>
+</Freight_segment>
+</Value_segment>
+</Bol_segment>
+<Bol_segment>
+<Bol_id>
+<Bol_reference>JHSNBO261355</Bol_reference>
+<Line_number>5</Line_number>
+<Bol_nature>23</Bol_nature>
+<Bol_type_code>HSB</Bol_type_code>
+<DG_status></DG_status>
+</Bol_id>
+<Consolidated_Cargo>0</Consolidated_Cargo>
+<Load_unload_place>
+<Port_of_origin_code>CNNGB</Port_of_origin_code>
+<Place_of_unloading_code>BDCGP</Place_of_unloading_code>
+</Load_unload_place>
+<Traders_segment>
+<Carrier>
+<Carrier_code>301043077</Carrier_code>
+<Carrier_name>BANGLADESH CONTAINER LINES LIMITED</Carrier_name>
+<Carrier_address>36, JOY BANGLA TOWER 12TH FLOOR, AGRABAD C/A, CHATTOGRAM, BANGLADESH</Carrier_address>
+</Carrier>
+<Shipping_Agent>
+<Shipping_Agent_code>SLA</Shipping_Agent_code>
+<Shipping_Agent_name>SPRING SEA SHIPPING LINES AGENTS AG</Shipping_Agent_name>
+</Shipping_Agent>
+<Exporter>
+<Exporter_name>HANGZHOU LI XIAO CHEMICALFIBER CO.</Exporter_name>
+<Exporter_address>LTD, YAQIAN, XIAOSHAN, HANGZHOU, ZHEJIANG, CHINA.</Exporter_address>
+</Exporter>
+<Notify>
+<Notify_code>001110456-0103</Notify_code>
+<Notify_name>DB TRIMS LTD</Notify_name>
+<Notify_address>SARDAGONJ, KASHIMPUR, GAZIPUR,,BANGLADESH.</Notify_address>
+</Notify>
+<Consignee>
+<Consignee_code>000211708-0101</Consignee_code>
+<Consignee_name>MIDLAND BANK PLC</Consignee_name>
+<Consignee_address>TRADE AND SUPPLY CHAIN, HEAD OFFICE ANNEX,,ZAHED PLAZA (LEVEL-9), 30 GULSHAN AVENUE, NORTH C/A,,DHAKA-1212, BANGLADESH</Consignee_address>
+</Consignee>
+</Traders_segment>
+<ctn_segment>
+<Ctn_reference>DRYU9267259</Ctn_reference>
+<Number_of_packages>695</Number_of_packages>
+<Type_of_container>45G1</Type_of_container>
+<Status>FCL</Status>
+<Seal_number>JHS019226</Seal_number>
+<IMCO></IMCO>
+<UN></UN>
+<Ctn_location></Ctn_location>
+<Commodity_code>35</Commodity_code>
+<Gross_weight>26757.50</Gross_weight>
+</ctn_segment>
+<ctn_segment>
+<Ctn_reference>TDLU6211253</Ctn_reference>
+<Number_of_packages>695</Number_of_packages>
+<Type_of_container>45G1</Type_of_container>
+<Status>FCL</Status>
+<Seal_number>JHS019197</Seal_number>
+<IMCO></IMCO>
+<UN></UN>
+<Ctn_location></Ctn_location>
+<Commodity_code>35</Commodity_code>
+<Gross_weight>26648.70</Gross_weight>
+</ctn_segment>
+<Goods_segment>
+<Number_of_packages>1390</Number_of_packages>
+<Package_type_code>CT</Package_type_code>
+<Gross_mass>53406.20</Gross_mass>
+<Shipping_marks>N/M</Shipping_marks>
+<Goods_description>02x40HC 1390 CARTONS, COMMODITY: 100 PERCENT POLYESTER TEXTURED YARN,1. DTY 150D/48F SD RW NIM AA GRADE OIL 1.2%,2. DTY 150D/48F SD DDB NIM AA GRADE OIL 1.2%,3. DTY 150D/48F SD RW HIM AA GRADE OIL 1.2% H. S. CODE NOS: 5402.33.00</Goods_description>
+<Volume_in_cubic_meters>0</Volume_in_cubic_meters>
+<Num_of_ctn_for_this_bol>2</Num_of_ctn_for_this_bol>
+<Remarks>COC</Remarks>
+</Goods_segment>
+<Value_segment>
+<Freight_segment>
+<Freight_value>0</Freight_value>
+<Freight_currency>ZZZ</Freight_currency>
+</Freight_segment>
+</Value_segment>
+</Bol_segment>
+<Bol_segment>
+<Bol_id>
+<Bol_reference>JHSNBO261354</Bol_reference>
+<Line_number>6</Line_number>
+<Bol_nature>23</Bol_nature>
+<Bol_type_code>HSB</Bol_type_code>
+<DG_status></DG_status>
+</Bol_id>
+<Consolidated_Cargo>0</Consolidated_Cargo>
+<Load_unload_place>
+<Port_of_origin_code>CNNGB</Port_of_origin_code>
+<Place_of_unloading_code>BDCGP</Place_of_unloading_code>
+</Load_unload_place>
+<Traders_segment>
+<Carrier>
+<Carrier_code>301043077</Carrier_code>
+<Carrier_name>BANGLADESH CONTAINER LINES LIMITED</Carrier_name>
+<Carrier_address>36, JOY BANGLA TOWER 12TH FLOOR, AGRABAD C/A, CHATTOGRAM, BANGLADESH</Carrier_address>
+</Carrier>
+<Shipping_Agent>
+<Shipping_Agent_code>SLA</Shipping_Agent_code>
+<Shipping_Agent_name>SPRING SEA SHIPPING LINES AGENTS AG</Shipping_Agent_name>
+</Shipping_Agent>
+<Exporter>
+<Exporter_name>SHANGHAI POLYTEX CO., LIMITED</Exporter_name>
+<Exporter_address>NO.325 TIAN YAO QIAO ROAD,,SHANGHAI/200030 CHINA</Exporter_address>
+</Exporter>
+<Notify>
+<Notify_code>000225562-0103</Notify_code>
+<Notify_name>KNIT PLUS LTD.</Notify_name>
+<Notify_address>PLOT NO.2036, MOUCHAK,KALIAKOIR, GAZIPUR,BANGLADESH</Notify_address>
+</Notify>
+<Consignee>
+<Consignee_code>000000521-0002</Consignee_code>
+<Consignee_name>DHAKA BANK PLC</Consignee_name>
+<Consignee_address>TRADE OPERATIONS DIVISION,HEAD OFFICE,,DHAKA,BANGLADESH</Consignee_address>
+</Consignee>
+</Traders_segment>
+<ctn_segment>
+<Ctn_reference>TIIU6612754</Ctn_reference>
+<Number_of_packages>74</Number_of_packages>
+<Type_of_container>45G1</Type_of_container>
+<Status>FCL</Status>
+<Seal_number>JHS019122</Seal_number>
+<IMCO></IMCO>
+<UN></UN>
+<Ctn_location>301INCL</Ctn_location>
+<Commodity_code>35</Commodity_code>
+<Gross_weight>26131.00</Gross_weight>
+</ctn_segment>
+<Goods_segment>
+<Number_of_packages>74</Number_of_packages>
+<Package_type_code>BL</Package_type_code>
+<Gross_mass>26131.00</Gross_mass>
+<Shipping_marks>N/M</Shipping_marks>
+<Goods_description>1x40HC 74 BALES, 100 PCT POLYESTER STAPLE FIBER FOR 100 PCT. EXPORT ORIENTED,READY-MADE GARMENTS INDUSTRY (H.S. CODE NO. 5503.20.00),COLOR: RAW WHITE,3.100 PCT POLYESTER STAPLE,FIBER HCS 3DX51MM RECYCLED GRS ,COLOR: RAW</Goods_description>
+<Volume_in_cubic_meters>0</Volume_in_cubic_meters>
+<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+<Remarks>COC</Remarks>
+</Goods_segment>
+<Value_segment>
+<Freight_segment>
+<Freight_value>0</Freight_value>
+<Freight_currency>ZZZ</Freight_currency>
+</Freight_segment>
+</Value_segment>
+</Bol_segment>
+<Bol_segment>
+<Bol_id>
+<Bol_reference>JHSNBO261352</Bol_reference>
+<Line_number>7</Line_number>
+<Bol_nature>23</Bol_nature>
+<Bol_type_code>HSB</Bol_type_code>
+<DG_status></DG_status>
+</Bol_id>
+<Consolidated_Cargo>0</Consolidated_Cargo>
+<Load_unload_place>
+<Port_of_origin_code>CNNGB</Port_of_origin_code>
+<Place_of_unloading_code>BDCGP</Place_of_unloading_code>
+</Load_unload_place>
+<Traders_segment>
+<Carrier>
+<Carrier_code>301043077</Carrier_code>
+<Carrier_name>BANGLADESH CONTAINER LINES LIMITED</Carrier_name>
+<Carrier_address>36, JOY BANGLA TOWER 12TH FLOOR, AGRABAD C/A, CHATTOGRAM, BANGLADESH</Carrier_address>
+</Carrier>
+<Shipping_Agent>
+<Shipping_Agent_code>SLA</Shipping_Agent_code>
+<Shipping_Agent_name>SPRING SEA SHIPPING LINES AGENTS AG</Shipping_Agent_name>
+</Shipping_Agent>
+<Exporter>
+<Exporter_name>HANGZHOU YUCHENG NEW MATERIAL</Exporter_name>
+<Exporter_address>TECHNOLOGY CO., LTD. RM 1207, NO.1,THE WEST LAKE AVENUE, SHANGCHENG,DISTRICT, HANGZHOU, CHINA</Exporter_address>
+</Exporter>
+<Notify>
+<Notify_code>000285008-0103</Notify_code>
+<Notify_name>NORBAN COMTEX LIMITED</Notify_name>
+<Notify_address>SARABO,KASHIMPUR,GAZIPUR,,BANGLADESH</Notify_address>
+</Notify>
+<Consignee>
+<Consignee_code>000000275-0002</Consignee_code>
+<Consignee_name>BANK ASIA PLC</Consignee_name>
+<Consignee_address>CENTRAL TRADE PROCESSING CENTER (CTPC), RANGS TOWER (LEVEL-6), 68, PURANA PALTAN,,DHAKA- 1000, BANGLADESH</Consignee_address>
+</Consignee>
+</Traders_segment>
+<ctn_segment>
+<Ctn_reference>ZIBU8004179</Ctn_reference>
+<Number_of_packages>682</Number_of_packages>
+<Type_of_container>45G1</Type_of_container>
+<Status>FCL</Status>
+<Seal_number>JHS019198</Seal_number>
+<IMCO></IMCO>
+<UN></UN>
+<Ctn_location></Ctn_location>
+<Commodity_code>16</Commodity_code>
+<Gross_weight>26074.10</Gross_weight>
+</ctn_segment>
+<Goods_segment>
+<Number_of_packages>682</Number_of_packages>
+<Package_type_code>CT</Package_type_code>
+<Gross_mass>26074.10</Gross_mass>
+<Shipping_marks>N/M</Shipping_marks>
+<Goods_description>1x40HC 682 CARTONS, YARN FOR 100 PCT EXPORT-ORIENTED READY-MADE GARMENTS INDUSTRY.,100%POLYESTER YARN DTY 75D/36F SD,RW NIM AA GRADE,100%POLYESTER YARN DTY 100D/36F SD,RW NIM AA GRADE,100%POLYESTER YARN DTY 200D/144F FD,RW SIM (120 BABY CONE) H.S.CODE NUMBER:5402.33.00</Goods_description>
+<Volume_in_cubic_meters>0</Volume_in_cubic_meters>
+<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+<Remarks>COC</Remarks>
+</Goods_segment>
+<Value_segment>
+<Freight_segment>
+<Freight_value>0</Freight_value>
+<Freight_currency>ZZZ</Freight_currency>
+</Freight_segment>
+</Value_segment>
+</Bol_segment>
+<Bol_segment>
+<Bol_id>
+<Bol_reference>JHSNBO263244</Bol_reference>
+<Line_number>8</Line_number>
+<Bol_nature>23</Bol_nature>
+<Bol_type_code>HSB</Bol_type_code>
+<DG_status></DG_status>
+</Bol_id>
+<Consolidated_Cargo>0</Consolidated_Cargo>
+<Load_unload_place>
+<Port_of_origin_code>CNNGB</Port_of_origin_code>
+<Place_of_unloading_code>BDCGP</Place_of_unloading_code>
+</Load_unload_place>
+<Traders_segment>
+<Carrier>
+<Carrier_code>301043077</Carrier_code>
+<Carrier_name>BANGLADESH CONTAINER LINES LIMITED</Carrier_name>
+<Carrier_address>36, JOY BANGLA TOWER 12TH FLOOR, AGRABAD C/A, CHATTOGRAM, BANGLADESH</Carrier_address>
+</Carrier>
+<Shipping_Agent>
+<Shipping_Agent_code>SLA</Shipping_Agent_code>
+<Shipping_Agent_name>SPRING SEA SHIPPING LINES AGENTS AG</Shipping_Agent_name>
+</Shipping_Agent>
+<Exporter>
+<Exporter_name>HANGZHOU HONGKAI TECHNOLOGY CO LTD,</Exporter_name>
+<Exporter_address>ROOM 225, BUILDING 1, LINGLONG COUNTY, NO. 581, FUNAN ROAD, JIANGNAN TOWN, CHINA.</Exporter_address>
+</Exporter>
+<Notify>
+<Notify_code>001482881-0403</Notify_code>
+<Notify_name>DUCATI APPARELS LTD.</Notify_name>
+<Notify_address>KATHGORA, ASHULIA, SAVAR,DHAKA-1341, BANGLADESH</Notify_address>
+</Notify>
+<Consignee>
+<Consignee_code>001482881-0403</Consignee_code>
+<Consignee_name>DUCATI APPARELS LTD.</Consignee_name>
+<Consignee_address>KATHGORA, ASHULIA, SAVAR,DHAKA-1341, BANGLADESH</Consignee_address>
+</Consignee>
+</Traders_segment>
+<ctn_segment>
+<Ctn_reference>TIIU6394950</Ctn_reference>
+<Number_of_packages>886</Number_of_packages>
+<Type_of_container>45G1</Type_of_container>
+<Status>FCL</Status>
+<Seal_number>JHS017422</Seal_number>
+<IMCO></IMCO>
+<UN></UN>
+<Ctn_location></Ctn_location>
+<Commodity_code>16</Commodity_code>
+<Gross_weight>21247.00</Gross_weight>
+</ctn_segment>
+<Goods_segment>
+<Number_of_packages>886</Number_of_packages>
+<Package_type_code>RO</Package_type_code>
+<Gross_mass>21247.00</Gross_mass>
+<Shipping_marks>N/M</Shipping_marks>
+<Goods_description>01x40HC 886 ROLLS, FABRICS FOR 100 PERCENT EXPORT ORIENTED READY-MADE GARMENTS INDUSTRY. HS CODE: 6004.10.00</Goods_description>
+<Volume_in_cubic_meters>0</Volume_in_cubic_meters>
+<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+<Remarks>COC</Remarks>
+</Goods_segment>
+<Value_segment>
+<Freight_segment>
+<Freight_value>0</Freight_value>
+<Freight_currency>ZZZ</Freight_currency>
+</Freight_segment>
+</Value_segment>
+</Bol_segment>
+<Bol_segment>
+<Bol_id>
+<Bol_reference>JHSNBO263242</Bol_reference>
+<Line_number>9</Line_number>
+<Bol_nature>23</Bol_nature>
+<Bol_type_code>HSB</Bol_type_code>
+<DG_status></DG_status>
+</Bol_id>
+<Consolidated_Cargo>0</Consolidated_Cargo>
+<Load_unload_place>
+<Port_of_origin_code>CNNGB</Port_of_origin_code>
+<Place_of_unloading_code>BDCGP</Place_of_unloading_code>
+</Load_unload_place>
+<Traders_segment>
+<Carrier>
+<Carrier_code>301043077</Carrier_code>
+<Carrier_name>BANGLADESH CONTAINER LINES LIMITED</Carrier_name>
+<Carrier_address>36, JOY BANGLA TOWER 12TH FLOOR, AGRABAD C/A, CHATTOGRAM, BANGLADESH</Carrier_address>
+</Carrier>
+<Shipping_Agent>
+<Shipping_Agent_code>SLA</Shipping_Agent_code>
+<Shipping_Agent_name>SPRING SEA SHIPPING LINES AGENTS AG</Shipping_Agent_name>
+</Shipping_Agent>
+<Exporter>
+<Exporter_name>TAIZHOU XING GUANG TRADING COMPANY</Exporter_name>
+<Exporter_address>NO.212 JINCHUAN ROAD.XINQIAN STREET .TAIZHOU CITY. ZHEJIANG.P.R CHINA..</Exporter_address>
+</Exporter>
+<Notify>
+<Notify_code>000298458-0504</Notify_code>
+<Notify_name>ABUL KHAIR CONSUMER PRODUCTS LTD.</Notify_name>
+<Notify_address>277, BAYAZID BOSTAMI ROAD NASIRABAD INDUSTRIAL AREA, CHATTOGRAM-4210, BANGLADESH</Notify_address>
+</Notify>
+<Consignee>
+<Consignee_code>000001437-0202</Consignee_code>
+<Consignee_name>STANDARD BANK PLC</Consignee_name>
+<Consignee_address>AGRABAD BRANCH, CHATTOGRAM, BANGLADESH</Consignee_address>
+</Consignee>
+</Traders_segment>
+<ctn_segment>
+<Ctn_reference>TRHU8803944</Ctn_reference>
+<Number_of_packages>9</Number_of_packages>
+<Type_of_container>45G1</Type_of_container>
+<Status>FCL</Status>
+<Seal_number>JHS017309</Seal_number>
+<IMCO></IMCO>
+<UN></UN>
+<Ctn_location></Ctn_location>
+<Commodity_code>17</Commodity_code>
+<Gross_weight>10959.00</Gross_weight>
+</ctn_segment>
+<Goods_segment>
+<Number_of_packages>9</Number_of_packages>
+<Package_type_code>CS</Package_type_code>
+<Gross_mass>10959.00</Gross_mass>
+<Shipping_marks>IMPORTERS,NAME:ABUL KHAIR,CONSUMER,PRODUCTS LIMITED,ADDRESS:277, BAYAZID BOSTAMI,ROAD NASIRABAD,INDUSTRIAL AREA, CHATTOGRAM-4210, BANGLADESH. TIN NO.221467512210,COUNTRY OF,ORIGIN:CHINA</Shipping_marks>
+<Goods_description>01x40HC 9 CASES, BRAND NEW CAPITAL MACHINERY. AUTOMATIC PET BLOW MOLDING MACHINE, MODEL:ZQ-M3000-4 WITH STANDARD ACCESSORIES H.S.CODE: 8477.30.00</Goods_description>
+<Volume_in_cubic_meters>0</Volume_in_cubic_meters>
+<Num_of_ctn_for_this_bol>1</Num_of_ctn_for_this_bol>
+<Remarks>COC</Remarks>
+</Goods_segment>
+<Value_segment>
+<Freight_segment>
+<Freight_value>0</Freight_value>
+<Freight_currency>ZZZ</Freight_currency>
+</Freight_segment>
+</Value_segment>
+</Bol_segment>
+</Awmds>
