@@ -27,5 +27,7 @@ cmds = [
 [phases.build]
 dependsOn = ["install"]
 cmds = [
+    "cp .env.example .env",
+    "php artisan key:generate --force --ansi",
     "php artisan package:discover --ansi"
 ]
