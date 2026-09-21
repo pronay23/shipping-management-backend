@@ -1,11 +1,14 @@
 [variables]
 COMPOSER_MEMORY_LIMIT = "-1"
 
+[phases.setup]
+nixPkgs = ["php83", "php83Packages.composer", "nginx"]
+
 [phases.install]
 dependsOn = ["setup"]
 cmds = [
     "mkdir -p /var/log/nginx && mkdir -p /var/cache/nginx",
-    "composer install --ignore-platform-reqs --no-interaction --no-scripts --prefer-dist"
+    "composer install --no-interaction --no-scripts --prefer-dist"
 ]
 
 [phases.build]
