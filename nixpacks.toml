@@ -1,2 +1,17 @@
 [variables]
 COMPOSER_MEMORY_LIMIT = "-1"
+
+[phases.install]
+dependsOn = ["setup"]
+cmds = [
+    "mkdir -p /var/log/nginx && mkdir -p /var/cache/nginx",
+    "composer install --ignore-platform-reqs --no-interaction --no-scripts --prefer-dist",
+    "npm ci"
+]
+
+[phases.build]
+dependsOn = ["install"]
+cmds = [
+    "npm run build",
+    "php artisan package:discover --ansi"
+]
