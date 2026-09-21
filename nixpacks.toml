@@ -6,7 +6,7 @@ dependsOn = ["setup"]
 cmds = [
     "mkdir -p /var/log/nginx && mkdir -p /var/cache/nginx",
     "composer install --ignore-platform-reqs --no-interaction --no-scripts --prefer-dist",
-    "npm ci"
+    "npm ci --include=dev"
 ]
 
 [phases.build]
