@@ -2,13 +2,26 @@
 COMPOSER_MEMORY_LIMIT = "-1"
 
 [phases.setup]
-nixPkgs = ["php83", "php83Packages.composer", "nginx"]
+nixPkgs = [
+    "php83",
+    "php83Extensions.mbstring",
+    "php83Extensions.xml",
+    "php83Extensions.curl",
+    "php83Extensions.pdo",
+    "php83Extensions.tokenizer",
+    "php83Extensions.zip",
+    "php83Extensions.bcmath",
+    "php83Extensions.fileinfo",
+    "php83Extensions.openssl",
+    "php83Packages.composer",
+    "nginx"
+]
 
 [phases.install]
 dependsOn = ["setup"]
 cmds = [
     "mkdir -p /var/log/nginx && mkdir -p /var/cache/nginx",
-    "composer install --no-interaction --no-scripts --prefer-dist"
+    "composer install --ignore-platform-reqs --no-interaction --no-scripts --prefer-dist"
 ]
 
 [phases.build]
