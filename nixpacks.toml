@@ -1,26 +1,13 @@
 [variables]
 COMPOSER_MEMORY_LIMIT = "-1"
-
-[phases.setup]
-nixPkgs = [
-    "php83",
-    "php83Extensions.mbstring",
-    "php83Extensions.xml",
-    "php83Extensions.curl",
-    "php83Extensions.pdo",
-    "php83Extensions.tokenizer",
-    "php83Extensions.zip",
-    "php83Extensions.bcmath",
-    "php83Extensions.fileinfo",
-    "php83Extensions.openssl",
-    "php83Packages.composer",
-    "nginx"
-]
+APP_KEY = "base64:YWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWE="
+APP_ENV = "production"
+DB_CONNECTION = "sqlite"
+DB_DATABASE = "/tmp/build.sqlite"
 
 [phases.install]
 dependsOn = ["setup"]
 cmds = [
-    "mkdir -p /var/log/nginx && mkdir -p /var/cache/nginx",
     "composer install --ignore-platform-reqs --no-interaction --no-scripts --prefer-dist --no-dev"
 ]
 
@@ -28,6 +15,5 @@ cmds = [
 dependsOn = ["install"]
 cmds = [
     "cp .env.example .env",
-    "php artisan key:generate --force --ansi",
     "php artisan package:discover --ansi"
 ]
