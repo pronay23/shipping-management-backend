@@ -2,6 +2,9 @@
 COMPOSER_MEMORY_LIMIT = "-1"
 NODE_ENV = "development"
 
+[phases.setup]
+nixPkgs = ["(php83.withExtensions (pe: pe.enabled ++ []))", "nginx", "libmysqlclient", "php83Packages.composer", "nodejs_20", "npm-9_x"]
+
 [phases.install]
 dependsOn = ["setup"]
 cmds = [
