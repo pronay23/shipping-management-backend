@@ -1,3 +1,6 @@
+[phases.setup]
+nixPkgs = ["php84", "php84Extensions.pdo_sqlite", "composer"]
+
 [variables]
 COMPOSER_MEMORY_LIMIT = "-1"
 APP_KEY = "base64:YWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWE="
@@ -15,5 +18,7 @@ cmds = [
 dependsOn = ["install"]
 cmds = [
     "cp .env.example .env",
+    "mkdir -p storage bootstrap/cache",
+    "touch database/database.sqlite",
     "php artisan package:discover --ansi"
 ]
