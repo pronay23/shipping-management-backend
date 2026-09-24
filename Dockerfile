@@ -14,14 +14,8 @@ RUN composer install --ignore-platform-reqs --no-interaction --no-scripts --pref
 
 COPY . .
 
-RUN cp .env.example .env \
-    && mkdir -p storage/framework/{cache,sessions,testing,views} storage/logs \
-    && touch database/database.sqlite \
-    && php artisan key:generate --force \
-    && php artisan package:discover --ansi \
-    && php artisan config:cache \
-    && php artisan route:cache \
-    && php artisan view:cache
+RUN mkdir -p storage/framework/{cache,sessions,testing,views} storage/logs \
+    && php artisan package:discover --ansi
 
 EXPOSE 8000
 
