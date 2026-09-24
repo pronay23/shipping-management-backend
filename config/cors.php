@@ -1,6 +1,8 @@
+<?php
+
 return [
 
-    'paths' => ['employee/*', 'api/*', 'sanctum/csrf-cookie'],
+    'paths' => ['api/*', 'employee/*', 'sanctum/csrf-cookie'],
 
     'allowed_methods' => ['*'],
 
